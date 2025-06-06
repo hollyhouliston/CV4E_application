@@ -1,4 +1,4 @@
-# CV4E_application
+# CV4E_application 💻🌍🤓
 ## Coding examples for analysing drone imagery of humpback whales 🐳
 
 **Author**: Holly Houliston\
