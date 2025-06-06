@@ -1,5 +1,5 @@
 # CV4E_application
-## Examples of computer vision techniques applied to drone imagery of humpback whales
+## Coding examples for analysing drone imagery of humpback whales 🐳
 
 **Author**: Holly Houliston\
 **Email**: holuli32@bas.ac.uk
