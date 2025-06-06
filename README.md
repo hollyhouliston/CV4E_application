@@ -6,7 +6,8 @@
 
 ### About
 
-- colour_thresholding.ipynb : Using openCV package to trial colour thresholding techniques on drone image of humpback whales 
+- colour_thresholding.ipynb : Using openCV package to trial colour thresholding techniques on drone image of humpback whales
+- annotation_summary.ipynb: Summarises total number of images and labels in a folder 
 
 ### Usage
 
