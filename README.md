@@ -11,7 +11,7 @@
 
 To clone the repository onto your computer:
 ```bash
-git clone [https://github.com/hollyhouliston/CV4E_application]
+git clone https://github.com/hollyhouliston/CV4E_application
 ```
 
 ### Requirements
