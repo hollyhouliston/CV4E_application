@@ -1,5 +1,5 @@
 # CV4E_application 💻🌍🤓
-## Coding example 🐳
+## Coding examples 🐳
 
 **Author**: Holly Houliston\
 **Email**: holuli32@bas.ac.uk
